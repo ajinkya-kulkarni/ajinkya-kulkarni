@@ -1,6 +1,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=transparent&count_private=true)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
 
 - 👋 Hi, I’m Ajinkya, 
