@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&count_private=true&theme=dark)
 
 ![GitHub stats](https://api.githubtrends.io/user/svg/ajinkya-kulkarni/repos?time_range=one_year&include_private=True&theme=dark)
 
