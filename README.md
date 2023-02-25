@@ -1,3 +1,6 @@
+![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact)](https://github.com/ajinkya-kulkarni/)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
