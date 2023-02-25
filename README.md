@@ -1,5 +1,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=default&theme=dark&langs_count=10&hide_border=true)](https://github.com/ajinkya-kulkarni/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=dark&langs_count=5&hide_border=true)](https://github.com/ajinkya-kulkarni/)
 
 - 👋 Hi, I’m Ajinkya, 
 - 👀 I’m interested in scientific bio-image analysis, data analysis using python and developing scientific GUI applications using tkinter, PySimpleGUI (https://www.pysimplegui.org/en/latest/) and Streamlit (https://streamlit.io/).
