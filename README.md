@@ -1,3 +1,7 @@
+<a href="https://github.com/ajinkya-kulkarni"><img src="https://img.shields.io/github/followers/ajinkya-kulkarni?label=Follow&style=social"></a> <a href="https://www.codewars.com/users/ajinkya-kulkarni" target="_blank"><img src="https://www.codewars.com/users/ajinkya-kulkarni/badges/small"></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true)
+
 - 👋 Hi, I’m Ajinkya, 
 - 👀 I’m interested in scientific bio-image analysis, data analysis using python and developing scientific GUI applications using tkinter, PySimpleGUI (https://www.pysimplegui.org/en/latest/) and Streamlit (https://streamlit.io/).
 
