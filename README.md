@@ -1,4 +1,4 @@
-<a href="https://github.com/ajinkya-kulkarni"><img src="https://img.shields.io/github/followers/ajinkya-kulkarni?label=Follow&style=social"></a> <a href="https://www.codewars.com/users/ajinkya-kulkarni" target="_blank"><img src="https://www.codewars.com/users/ajinkya-kulkarni/badges/small"></a>
+<a href="https://github.com/ajinkya-kulkarni"><img src="https://img.shields.io/github/followers/ajinkya-kulkarni?label=Follow&style=social"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true)
 
