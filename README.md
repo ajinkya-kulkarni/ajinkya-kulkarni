@@ -1,4 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&count_private=true&show_icons=true)
 
 - 👋 Hi, I’m Ajinkya, 
