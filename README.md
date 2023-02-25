@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ajinkya, 
 - 👀 I’m interested in scientific bio-image analysis, data analysis using python and developing scientific GUI applications using tkinter, PySimpleGUI (https://www.pysimplegui.org/en/latest/) and Streamlit (https://streamlit.io/).
 
-![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=onedark&bg_color=00000000&langs_count=5&hide_border=true)](https://github.com/ajinkya-kulkarni)
+![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=vue-dark&bg_color=00000000&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=vue-dark&bg_color=00000000&langs_count=5&hide_border=true)](https://github.com/ajinkya-kulkarni)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=github_dark)
