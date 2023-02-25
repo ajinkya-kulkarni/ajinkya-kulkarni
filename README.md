@@ -1,4 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&count_private=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&count_private=true&theme=merko)
+
 ![GitHub stats](https://api.githubtrends.io/user/svg/ajinkya-kulkarni/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 ![GitHub stats](https://api.githubtrends.io/user/svg/ajinkya-kulkarni/langs?time_range=one_year&include_private=True&compact=True&theme=dark)
 
