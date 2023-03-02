@@ -4,9 +4,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=github_dark)
-
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
