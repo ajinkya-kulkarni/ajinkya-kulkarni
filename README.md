@@ -4,6 +4,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni)
 
+
+![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=vue-dark&bg_color=00000000&langs_count=5&hide_border=true)](https://github.com/ajinkya-kulkarni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajinkya-kulkarni&theme=github_dark&utcOffset=8)
+
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
