@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ajinkya, 
 - 👀 I’m interested in scientific bio-image analysis, data analysis using python and developing scientific GUI applications using [Streamlit](https://streamlit.io/), [PySimpleGUI](https://www.pysimplegui.org/en/latest/) and [tkinter](https://docs.python.org/3/library/tkinter.html).
 
+![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
 
 <!-- 
