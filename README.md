@@ -5,8 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=dark&bg_color=00000000&langs_count=8&hide_border=true&hide_progress=true)](https://github.com/ajinkya-kulkarni)
 
-![](https://komarev.com/ghpvc/?username=ajinkya-kulkarni&style=flat-square)
-
+<!-- ![](https://komarev.com/ghpvc/?username=ajinkya-kulkarni&style=flat-square)
+ -->
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
