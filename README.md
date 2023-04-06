@@ -2,10 +2,10 @@
 - I have a particular interest in scientific bio-image analysis, data analysis using Python, and developing scientific GUI applications using [Streamlit](https://streamlit.io/), [PySimpleGUI](https://www.pysimplegui.org/en/latest/) and [tkinter](https://docs.python.org/3/library/tkinter.html). 
 - I'm always looking for new opportunities to learn and grow in these areas, and I'm excited to share my work with the community.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajinkya-kulkarni&theme=vision_friendly_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajinkya-kulkarni&theme=transparent&utcOffset=8)
 
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
