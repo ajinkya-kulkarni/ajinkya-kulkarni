@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ajinkya, a software developer with a passion for exploring new technologies and building exciting projects. 
 - I have a particular interest in scientific bio-image analysis, data analysis using Python, and developing scientific GUI applications using [Streamlit](https://streamlit.io/), [PySimpleGUI](https://www.pysimplegui.org/en/latest/) and [tkinter](https://docs.python.org/3/library/tkinter.html). 
-- I'm always looking for new opportunities to learn and grow in these areas, and I'm excited to share my work with the community.
+- I'm always looking for new opportunities to learn and grow in these areas, and I'm excited to share my work with the community!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=transparent)
