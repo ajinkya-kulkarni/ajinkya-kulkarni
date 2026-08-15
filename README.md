@@ -1,6 +1,6 @@
 # Hi, I'm Ajinkya 👋
 
-I'm an AI/ML engineer who enjoys building across **computer vision, scientific imaging, machine learning, scientific computing, and developer tools**.
+I'm an ML engineer who enjoys building across computer vision, scientific imaging, machine learning, scientific computing, and developer tools.
 
 A lot of my work sits at the intersection of research and software engineering — turning algorithms and ideas into usable libraries, applications, experiments, and tools.
 
