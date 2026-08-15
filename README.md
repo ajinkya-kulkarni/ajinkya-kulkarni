@@ -13,30 +13,20 @@ A lot of my work sits at the intersection of research and software engineering �
 
 ## Selected projects
 
-### 🔬 Scientific imaging & bioimage analysis
-
-- **[PyTextureAnalysis](https://github.com/ajinkya-kulkarni/PyTextureAnalysis)** — Image texture analysis including local orientation, coherence, and fibre organization.
-- **[PySpatialHistologyAnalysis](https://github.com/ajinkya-kulkarni/PySpatialHistologyAnalysis)** — Nuclei detection and spatial analysis of H&E histology images.
-- **[PyElispotAnalysis](https://github.com/ajinkya-kulkarni/PyElispotAnalysis)** — Automated detection, quantification, and analysis of ELISpot assays.
-- **[PyBlendPatches](https://github.com/ajinkya-kulkarni/PyBlendPatches)** — Patch-based segmentation and reconstruction of large images.
-- **[organoidnet-streamlit](https://github.com/ajinkya-kulkarni/organoidnet-streamlit)** — Interactive organoid segmentation and analysis for PDAC research.
-
-### 🧠 Machine learning & computer vision
+### 🧠 Machine learning & deep learning
 
 - **[ForwardForwardCNN](https://github.com/ajinkya-kulkarni/ForwardForwardCNN)** — Source code for work on training convolutional neural networks with the Forward–Forward algorithm.
 - **[tiny-dfine](https://github.com/ajinkya-kulkarni/tiny-dfine)** — Compact object-detection experiments around D-FINE.
-- **[CervicalCancerPredictor](https://github.com/ajinkya-kulkarni/CervicalCancerPredictor)** — Machine-learning experiments for cervical cancer prediction.
+- **[YOLOv8-pytorch](https://github.com/ajinkya-kulkarni/YOLOv8-pytorch)** — PyTorch experiments around YOLOv8-style object detection.
+- **[organoidnet-streamlit](https://github.com/ajinkya-kulkarni/organoidnet-streamlit)** — Interactive deep-learning-based organoid segmentation and analysis for PDAC research.
 
-### 🧪 Scientific computing & simulation
+### 🔬 Image processing & scientific imaging
 
-- **[PyFlocking](https://github.com/ajinkya-kulkarni/PyFlocking)** — Simulation of collective motion using the Vicsek model.
-- **[CrowdDynamics](https://github.com/ajinkya-kulkarni/CrowdDynamics)** — C-based simulations of self-propelled particles and crowd dynamics.
-- **[Collatz-Conjucture](https://github.com/ajinkya-kulkarni/Collatz-Conjucture)** — Computational exploration of the Collatz conjecture.
-
-### 🛠️ Apps & developer tools
-
-- **[opencode-mac-menubar](https://github.com/ajinkya-kulkarni/opencode-mac-menubar)** — Tiny native macOS menu-bar utility written in Swift/AppKit.
-- **[ElispotStreamlitApp](https://github.com/ajinkya-kulkarni/ElispotStreamlitApp)** — Interactive scientific image-analysis application.
+- **[PyTextureAnalysis](https://github.com/ajinkya-kulkarni/PyTextureAnalysis)** — Image texture analysis including local orientation, coherence, and fibre organization.
+- **[PyHistology](https://github.com/ajinkya-kulkarni/PyHistology)** — Color-space segmentation and stain quantification for histopathology images.
+- **[PySpatialHistologyAnalysis](https://github.com/ajinkya-kulkarni/PySpatialHistologyAnalysis)** — Nuclei detection and spatial analysis of H&E histology images.
+- **[PyElispotAnalysis](https://github.com/ajinkya-kulkarni/PyElispotAnalysis)** — Automated detection, quantification, and analysis of ELISpot assays.
+- **[PyBlendPatches](https://github.com/ajinkya-kulkarni/PyBlendPatches)** — Patch-based segmentation and reconstruction of large images.
 
 ## GitHub
 
