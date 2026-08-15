@@ -1,52 +1,47 @@
-- 👋 Hi, I'm Ajinkya, a software developer with a passion for building new imaging algorithms and building exciting projects.
-- I have a particular interest in scientific bio-image analysis, data analysis using Python, and developing scientific end-end GUI applications.
+# Hi, I'm Ajinkya 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=transparent)
+I'm an AI/ML engineer who enjoys building across **computer vision, scientific imaging, machine learning, scientific computing, and developer tools**.
 
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=dark&bg_color=00000000&langs_count=8&hide_border=true&hide_progress=true)](https://github.com/ajinkya-kulkarni) -->
+A lot of my work sits at the intersection of research and software engineering — turning algorithms and ideas into usable libraries, applications, experiments, and tools.
 
-<!-- ![](https://komarev.com/ghpvc/?username=ajinkya-kulkarni&style=flat-square)
- -->
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
+## Selected projects
 
-![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=vue-dark&bg_color=00000000&langs_count=5&hide_border=true)](https://github.com/ajinkya-kulkarni) -->
+### 🔬 Scientific imaging & bioimage analysis
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajinkya-kulkarni&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
+- **[PyTextureAnalysis](https://github.com/ajinkya-kulkarni/PyTextureAnalysis)** — Image texture analysis including local orientation, coherence, and fibre organization.
+- **[PySpatialHistologyAnalysis](https://github.com/ajinkya-kulkarni/PySpatialHistologyAnalysis)** — Nuclei detection and spatial analysis of H&E histology images.
+- **[PyElispotAnalysis](https://github.com/ajinkya-kulkarni/PyElispotAnalysis)** — Automated detection, quantification, and analysis of ELISpot assays.
+- **[PyBlendPatches](https://github.com/ajinkya-kulkarni/PyBlendPatches)** — Patch-based segmentation and reconstruction of large images.
+- **[organoidnet-streamlit](https://github.com/ajinkya-kulkarni/organoidnet-streamlit)** — Interactive organoid segmentation and analysis for PDAC research.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni)
+### 🧠 Machine learning & computer vision
 
+- **[ForwardForwardCNN](https://github.com/ajinkya-kulkarni/ForwardForwardCNN)** — Source code for work on training convolutional neural networks with the Forward–Forward algorithm.
+- **[tiny-dfine](https://github.com/ajinkya-kulkarni/tiny-dfine)** — Compact object-detection experiments around D-FINE.
+- **[CervicalCancerPredictor](https://github.com/ajinkya-kulkarni/CervicalCancerPredictor)** — Machine-learning experiments for cervical cancer prediction.
 
-![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=vue-dark&bg_color=00000000&langs_count=5&hide_border=true)](https://github.com/ajinkya-kulkarni)
+### 🧪 Scientific computing & simulation
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=github_dark)
+- **[PyFlocking](https://github.com/ajinkya-kulkarni/PyFlocking)** — Simulation of collective motion using the Vicsek model.
+- **[CrowdDynamics](https://github.com/ajinkya-kulkarni/CrowdDynamics)** — C-based simulations of self-propelled particles and crowd dynamics.
+- **[Collatz-Conjucture](https://github.com/ajinkya-kulkarni/Collatz-Conjucture)** — Computational exploration of the Collatz conjecture.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
+### 🛠️ Apps & developer tools
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=github_dark)
+- **[opencode-mac-menubar](https://github.com/ajinkya-kulkarni/opencode-mac-menubar)** — Tiny native macOS menu-bar utility written in Swift/AppKit.
+- **[ElispotStreamlitApp](https://github.com/ajinkya-kulkarni/ElispotStreamlitApp)** — Interactive scientific image-analysis application.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajinkya-kulkarni&theme=github_dark&utcOffset=8) -->
+## GitHub
 
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=ajinkya-kulkarni&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&text_bold=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajinkya-kulkarni&theme=github_dark)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-kulkarni&layout=compact&theme=vue-dark&bg_color=00000000&langs_count=5&hide_border=true)](https://github.com/ajinkya-kulkarni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajinkya-kulkarni&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajinkya-kulkarni&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajinkya-kulkarni&theme=github_dark&utcOffset=8)
-ajinkya-kulkarni/ajinkya-kulkarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----->
+![GitHub activity](./assets/github-stats.svg)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajinkya-kulkarni&theme=transparent)
+
+<sub>Activity statistics are refreshed weekly.</sub>
