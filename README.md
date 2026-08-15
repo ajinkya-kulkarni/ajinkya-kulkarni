@@ -2,7 +2,7 @@
 
 I'm an ML engineer who enjoys building across computer vision, scientific imaging, machine learning, scientific computing, and developer tools.
 
-A lot of my work sits at the intersection of research and software engineering — turning algorithms and ideas into usable libraries, applications, experiments, and tools.
+A lot of my work sits at the intersection of research and software engineering - turning algorithms and ideas into usable libraries, applications, experiments, and tools.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
