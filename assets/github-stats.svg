@@ -16,5 +16,5 @@
 <line x1="200" y1="25" x2="200" y2="95" class="divider"/>
 <line x1="415" y1="25" x2="415" y2="95" class="divider"/>
 <line x1="600" y1="25" x2="600" y2="95" class="divider"/>
-<text x="40" y="43" class="label">Total stars</text><text x="40" y="82" class="value">74</text><text x="225" y="43" class="label">Commits · 12 months</text><text x="225" y="82" class="value">127</text><text x="440" y="43" class="label">PRs authored</text><text x="440" y="82" class="value">161</text><text x="625" y="43" class="label">Issues opened</text><text x="625" y="82" class="value">100</text>
+<text x="40" y="43" class="label">Total stars</text><text x="40" y="82" class="value">78</text><text x="225" y="43" class="label">Commits · 12 months</text><text x="225" y="82" class="value">156</text><text x="440" y="43" class="label">PRs authored</text><text x="440" y="82" class="value">163</text><text x="625" y="43" class="label">Issues opened</text><text x="625" y="82" class="value">101</text>
 </svg>
